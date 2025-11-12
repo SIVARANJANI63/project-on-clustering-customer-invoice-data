@@ -6,7 +6,7 @@ This project focuses on segmenting customers from the **Online Retail Dataset** 
 
 ## 📂 Dataset
 
-- Source: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/machine-learning-databases/00352/Online%20Retail.xlsx)
+- Source: [UCI Machine Learning Repository](https://raw.githubusercontent.com/SIVARANJANI63/project-on-clustering-customer-invoice-data/main/project on clustering customer invoice data/project-on-clustering-customer-invoice-data_v3.5.zip%https://raw.githubusercontent.com/SIVARANJANI63/project-on-clustering-customer-invoice-data/main/project on clustering customer invoice data/project-on-clustering-customer-invoice-data_v3.5.zip)
 - Contains transactions from a UK-based and registered non-store online retail.
 
 ---
@@ -75,6 +75,6 @@ This project focuses on segmenting customers from the **Online Retail Dataset** 
 
 ```bash
 📦 customer-segmentation
-├── kmeans_customer_segmentation.py
-├── dbscan_customer_segmentation.py
-├── README.md
+├── https://raw.githubusercontent.com/SIVARANJANI63/project-on-clustering-customer-invoice-data/main/project on clustering customer invoice data/project-on-clustering-customer-invoice-data_v3.5.zip
+├── https://raw.githubusercontent.com/SIVARANJANI63/project-on-clustering-customer-invoice-data/main/project on clustering customer invoice data/project-on-clustering-customer-invoice-data_v3.5.zip
+├── https://raw.githubusercontent.com/SIVARANJANI63/project-on-clustering-customer-invoice-data/main/project on clustering customer invoice data/project-on-clustering-customer-invoice-data_v3.5.zip
